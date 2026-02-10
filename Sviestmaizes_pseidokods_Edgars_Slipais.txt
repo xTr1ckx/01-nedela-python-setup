@@ -1,0 +1,37 @@
+Sviestmaizes pagatavošana
+
+Došanās uz virtuvi
+Šķīvja un naža paņemšana
+Maizes šķēles daudzuma izvēle
+
+Sviestmaizes tipa izvēle
+	Parastā
+		Nepieciešamās sastāvdaļas paņemšana (sviests, aknu pastēte, desa)
+		Sviesta un aknu pastētes uzsmērēšana uz maizītēm
+		Desas sagriešana vairākās šķēlēs un uzlikšana uz maizītēm
+
+	Karstmaize
+		Nepieciešamās sastāvdaļas paņemšana (sviests, desa, kečups, majonēze, siers, marinētais gurķis)
+		Bļodas un karotes paņemšana
+		Sastāvdaļu sagriešana un ieberšana bļodā
+		Kečupa un majonēzes ieliešana bļodā un sastāvdaļu samaisīšana
+		Maisījuma uzsmērēšana uz maizītēm
+	
+		Aerogrila statusa pārbaude -> Jābūt ieslēgtam
+		Cepampapīra statusa pārbaude aerogrilā -> Jābūt ieliktam
+
+		Maizīšu ielikšana aerogrilā
+		Temperatūras iestatīšana uz 160 grādiem uz 6 minūtēm
+
+Visu sastāvdaļu nolikšana
+Pagatavoto sviestmaižu izbaudīšana
+
+Pārbaude vai bija pietiekams apēsto sviestmaižu skaits
+	Jā
+		Beigas
+	Nē
+		Papildus sviestmaižu nepieciešamības status
+			Jā
+				Atgriezties pie maizes šķēles daudzuma izvēles
+			Nē
+				Beigas
