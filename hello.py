@@ -1,0 +1,6 @@
+print("Hello, world!")
+print("And hello to you too, Python!")
+print("What a beautiful day it is, wouldn't you say?")
+print("It is quite a fine wintery day indeed.")
+print("Okay, that's all for now, see you later!")
+print("Goodbye, world.")
